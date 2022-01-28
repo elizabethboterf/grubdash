@@ -1,5 +1,5 @@
 # GrubDash Front End Application
-A website that takes and manages food orders
+A website designed to take and manage food orders. The user experience begins by landing on a dashboard that displays different food items and their cost. The user can add any item of their choosing and the items are collected in their cart. When the user is ready, they click the cart button to checkout. On the checkout screen, the items they selected(and their quantities) are listed, and the user inputs their information and submits their order. Once, the order is submitted, the user can view all of their orders and status of their orders.
 
 ---
 ## Link
